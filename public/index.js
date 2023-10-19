@@ -25,4 +25,4 @@ function renderBook(book) {
     `
 }
 
-main()
+main();
